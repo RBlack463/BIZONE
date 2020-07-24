@@ -20,4 +20,4 @@ cat dump.sql | docker exec -i docker-db psql -U postgres
 
 В крайнем случае, если желания разворачивать нет - код джанги лежит в /server/
 
-![screenshot](http://joxi.ru/MAj9PQNtxPb5D2)
+![screenshot](http://dl4.joxi.net/drive/2020/07/24/0020/0736/1348320/20/c9f4138beb.jpg)
