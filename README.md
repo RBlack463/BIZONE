@@ -19,3 +19,5 @@ cat dump.sql | docker exec -i docker-db psql -U postgres
 Результат смотреть на 192.168.99.10:8080
 
 В крайнем случае, если желания разворачивать нет - код джанги лежит в /server/
+
+![alt text](http://joxi.ru/E2p9PK0taP3g8A)
